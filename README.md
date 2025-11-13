@@ -14,7 +14,7 @@ Estou aprendendo e praticando TypeScript resolvendo exercícios do track oficial
 
     Praticar conceitos avançados do TypeScript
 
-🔗 Link do Track
+[🔗 Link do Track](https://exercism.org/tracks/typescript/exercises)
 
 TypeScript Track - Exercism
 📁 Estrutura do Repositório
